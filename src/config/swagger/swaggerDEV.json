@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "Backend ::ShareYourIdea:: App",
+    "description": "Backend ::Comparte Tu Idea:: App",
     "version": "1.0.0",
-    "title": "Swagger ShareYourIdea",
+    "title": "Swagger Comparte Tu Idea",
     "contact": {
-      "email": "marluanespiritusantoguerrero@gmail.com"
+      "email": "eduardopoox.99@gmail.com"
     },
     "license": {
       "name": "Apache 2.0",
